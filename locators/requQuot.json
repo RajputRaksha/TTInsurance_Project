@@ -1,0 +1,17 @@
+{
+    "requQuot":"#ui-id-2",
+    "reqHeading":"#tabs-2 h2",
+    "breakDownCover_cmb":"#quotation_breakdowncover",
+    "yesRadio_xpath":"//label[text()='YES']",
+    "incidents_txt":"#quotation_incidents",
+    "registration_txt":"#quotation_vehicle_attributes_registration",
+    "annualMil_txt":"#quotation_vehicle_attributes_mileage",
+    "estimate_txt":"#quotation_vehicle_attributes_value",
+    "parking_cmb":"#quotation_vehicle_attributes_parkinglocation",
+    "date_xpath":"//h5[contains(text(),'Start')]/select",
+    "calculate_btn":"[value=\"Calculate Premium\"]",
+    "resetForm_btn":"#resetquote",
+    "saveForm_btn":"[value=\"Save Quotation\"]",
+    "premiumTXt":"#calculatedpremium",
+    "reqIdiframe":"#Your App: 'Raksha'"
+}

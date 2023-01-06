@@ -1,0 +1,6 @@
+{
+    "retriveSec":"#ui-id-3",
+    "id_txt":"[name=\"id\"]",
+    "retrive_Btn":"#getquote",
+    "Quot_table":"table[border=\"1\"]"
+}

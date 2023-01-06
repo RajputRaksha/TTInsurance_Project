@@ -1,0 +1,8 @@
+{
+    "heading_h3_xpath":"//h3",
+    "userName_txt":"#email",
+    "password_txt":"#password",
+    "login_btn":"[value=\"Log in\"]",
+    "error_Span_xpath":"//span//b[contains(text(),'correct')]",
+    "logout_btn":"[value=\"Log out\"]"
+}
